@@ -6,7 +6,7 @@ Two applications for solving the squared Poisson equation using direct numerical
 
 - Gnuplot
 
-## Launching the application in each directory(direct_methods either iterative_methods or polynom)
+## Launching the application in each directory(either direct_methods or iterative_methods or polynom)
 
 ```bash
 make
